@@ -13,7 +13,6 @@ My Name is Johnpaul Nwagwu. I am a Data Scientist and Machine Learning Engineer.
 ---------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate on open source tools for Data analytics, Data science and Machine learning.
-<!- 🤔 I’m looking for help with
 - 💬 Ask me about Data Analytics, Machine Learning and Data Science.
 - 📫 How to reach me: Email (jpnwagwu@gmail.com) [Twitter](https://twitter.com/jaypee_kay), [Linkedin](https://www.linkedin.com/in/johnpaul-nwagwu).
 - 😄 Pronouns: He/Him
