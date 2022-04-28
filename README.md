@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Johnpaul Nwagwu. I am a Data Analyst. I have a huge passio for using data solve challenging problems and make better decisions.
+My Name is Johnpaul Nwagwu. I am a Data Analyst. I have a huge passion for using data solve challenging problems and make better decisions.
 
 **Languages**: Python, SQL, R, Javascript.
 
