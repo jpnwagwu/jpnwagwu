@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Johnpaul Nwagwu. I am a Data Scientist and Machine Learning Engineer. I have a huge passion for building machine learning and data driven products to enable us solve challenging problems and make better decisions. I have a huge interest in Data Analytics and building machine learning models(NLP, digital image processing, machine learning, deep learning, Classification and Regression).
+My Name is Johnpaul Nwagwu. I am a Data Analyst. I have a huge passio for using data solve challenging problems and make better decisions.
 
 **Languages**: Python, SQL, R, Javascript.
 
