@@ -20,8 +20,6 @@ My Name is Johnpaul Nwagwu. I am a Data Analyst. I have a huge passion for using
 
 ------------------------------------------------------------------------
 
-#### [My Resume]()
-
 -----------------------------------------------------------------------
  
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpnwagwu)](https://github.com/jpnwagwu/github-readme-stats)
