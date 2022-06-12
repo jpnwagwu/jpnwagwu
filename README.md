@@ -8,10 +8,6 @@ My Name is Johnpaul Nwagwu. I have a huge passion for using data to make better 
 
 -------------------------------------------------------------------------
 
-#### 🔭 I’m currently working on 
-
-- [Shell Descriptive Statistics Calculator]()(Automates calculation of relevant descriptive statistics from data)
-
 ---------------------------------------------------------------------------
 
 - 👯 I’m looking to collaborate on open source tools for Data analytics, Data science and Machine learning.
