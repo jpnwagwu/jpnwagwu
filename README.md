@@ -10,8 +10,6 @@ My Name is Johnpaul Nwagwu. I have a huge passion for using data to make better 
 
 ---------------------------------------------------------------------------
 
-- 👯 I’m looking to collaborate on open source tools for Data analytics, Data science and Machine learning.
-- 💬 Ask me about Data Analytics, Machine Learning and Data Science.
 - 📫 How to reach me: Email (jpnwagwu@gmail.com) [Twitter](https://twitter.com/jaypee_kay), [Linkedin](https://www.linkedin.com/in/johnpaul-nwagwu).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do these things for fun.
