@@ -4,7 +4,7 @@ My Name is Johnpaul Nwagwu. I have a huge passion for using data to make better 
 
 **Languages**: Python, SQL, R.
 
-**Tools**: Tableau, Excel, PowerBi.
+**Tools**: .
 
 -------------------------------------------------------------------------
 
