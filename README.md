@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My Name is Johnpaul Nwagwu. I have a huge passion for using data to solve real world problems
+
 **Languages**: Python, SQL, R.
 
 **Tools**: .
