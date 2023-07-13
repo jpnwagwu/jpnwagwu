@@ -17,6 +17,5 @@ My Name is Johnpaul Nwagwu. I have a huge passion for using data to solve real w
 ------------------------------------------------------------------------
 
 -----------------------------------------------------------------------
- 
- **[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpnwagwu)](https://github.com/jpnwagwu/github-readme-stats)**
+
 
