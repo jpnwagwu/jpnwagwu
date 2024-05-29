@@ -10,7 +10,7 @@ My Name is Johnpaul Nwagwu. I have a huge passion for using data to solve real w
 
 ---------------------------------------------------------------------------
 
-- 📫 How to reach me: Email (jpnwagwu@gmail.com) [Twitter](https://twitter.com/jaypee_kay), [Linkedin](https://www.linkedin.com/in/johnpaul-nwagwu).
+- 📫 How to reach me: Email (jpnwagwu@gmail.com) [Twitter](https://twitter.com/jaypee_kay).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do these things for fun.
 
