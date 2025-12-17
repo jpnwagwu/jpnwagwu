@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My Name is Johnpaul. I have a huge passion for using data to solve real world problems
+My Name is Johnpaul. I have a huge passion for AI and technology
 
-**Languages**: Python, SQL, R.
+**Languages**: Javascript, Python, SQL, .
 
 **Tools**: .
 
@@ -12,7 +12,7 @@ My Name is Johnpaul. I have a huge passion for using data to solve real world pr
 
 - 📫 How to reach me: Email (jpnwagwu@gmail.com) [Twitter](https://twitter.com/jaypee_kay).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I do these things for fun.
+- ⚡ Fun fact: I solved a Rubik's cube on first attempt.
 
 ------------------------------------------------------------------------
 
